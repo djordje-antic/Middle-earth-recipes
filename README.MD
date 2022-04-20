@@ -1,3 +1,3 @@
-# Recepies Website
+# Recipes Website
 
-toy site for recepies in middle-earth
+toy site for recipes in middle-earth
